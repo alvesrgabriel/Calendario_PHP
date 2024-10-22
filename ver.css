@@ -1,0 +1,45 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: #343a40;
+    margin-bottom: 20px;
+}
+
+.table {
+    border-radius: 0.5rem;
+    overflow: hidden; 
+}
+
+.table thead th {
+    background-color: #343a40; 
+    color: white;
+}
+
+.table tbody tr:hover {
+    background-color: #e9ecef; 
+}
+
+.table td {
+    vertical-align: middle; 
+}
+
+.container {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    padding: 20px;
+    border-radius: 0.5rem; 
+}
+
+.body-content {
+    min-height: calc(82.4vh - 56px); 
+}
+
+footer {
+    position: relative; 
+}
+
+.text_footer {
+    margin-bottom: -0.01vw;
+}

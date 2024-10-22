@@ -1,0 +1,54 @@
+body {
+    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+}
+
+.container { 
+    border-radius: 0.5rem; /* Bordas arredondadas */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Sombra leve */
+    padding: 20px;
+}
+
+h1 {
+    color: #333; /* Cor do título */
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.form-control {
+    margin-bottom: 15px; /* Espaçamento entre campos */
+}
+
+.btn-primary {
+    width: 100%; /* Botão ocupa toda a largura */
+}
+
+.table {
+    margin-top: 20px; /* Espaçamento acima da tabela */
+}
+
+.table thead th {
+    background-color: #007bff; /* Cor de fundo do cabeçalho */
+    color: white; /* Cor do texto do cabeçalho */
+}
+
+.table tbody tr:hover {
+    background-color: #e9ecef; /* Cor ao passar o mouse */
+}
+
+.alert {
+    margin-top: 20px; /* Espaçamento acima do alerta */
+}
+
+.body-content {
+    min-height: calc(87.6vh - 56px); 
+}
+
+
+footer {
+    position: relative; 
+}
+
+.text_footer {
+    margin-bottom: -0.01vw;
+}

@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+.body-content {
+    min-height: calc(87.6vh - 56px); 
+}
+
+.body-content {
+    min-height: calc(87.6vh - 56px); 
+}
+
+footer {
+    position: relative; 
+}
+
+.text_footer {
+    margin-bottom: -0.01vw;
+}

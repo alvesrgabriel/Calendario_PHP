@@ -1,0 +1,35 @@
+.card {
+    border: 1px solid #007bff; 
+    transition: background-color 0.3s ease;
+    margin-top: 7vw;
+}
+
+.card:hover {
+    background-color: #e0f7fa; 
+}
+
+.card-link {
+    color: #007bff; 
+    font-weight: bold; 
+    text-decoration: none; 
+    color: #007bff; 
+}
+
+.card-link:hover {
+    color: #0056b3;
+    text-decoration: underline; 
+    text-decoration: none; 
+    color: #0056b3; 
+}
+
+.body-content {
+    min-height: calc(87.6vh - 56px); 
+}
+
+footer {
+    position: relative; 
+}
+
+.text_footer {
+    margin-bottom: -0.01vw;
+}
